@@ -1,0 +1,14 @@
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\bin\Debug\net8.0\lista-de-funcionarios.exe
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\bin\Debug\net8.0\lista-de-funcionarios.deps.json
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\bin\Debug\net8.0\lista-de-funcionarios.runtimeconfig.json
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\bin\Debug\net8.0\lista-de-funcionarios.dll
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\bin\Debug\net8.0\lista-de-funcionarios.pdb
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.AssemblyInfoInputs.cache
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.AssemblyInfo.cs
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.dll
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\refint\lista-de-funcionarios.dll
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.pdb
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\lista-de-funcionarios.genruntimeconfig.cache
+C:\Users\Wellington\Desktop\Portfolio\ETEC\2DS\DS\lista-de-funcionarios\obj\Debug\net8.0\ref\lista-de-funcionarios.dll
